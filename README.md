@@ -17,6 +17,7 @@ Also make sure you configure your host settings according to the [OpenSearch doc
 ## Getting Started
 
 1. **Clone the repository**:
+
    ```bash
    git clone https://github.com/blauwe-lucht/docker-compose-opensearch-dashboards.git
    cd docker-compose-opensearch-dashboards
